@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+<img align="center" width="100%" src="https://github.com/YoshySET/YoshySET/blob/main/images/eyeCatch2.png" />
+
+
+
+
 <!--
 **Liakiye/Liakiye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
